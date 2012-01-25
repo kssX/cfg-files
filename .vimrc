@@ -13,3 +13,6 @@ set number
 "set no backup
 set nobackup
 set nowritebackup
+
+"syntax highlighting
+syntax on
